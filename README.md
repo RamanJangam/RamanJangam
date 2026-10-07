@@ -32,7 +32,7 @@ class RamanJangam:
 - 🔭 Currently building end-to-end ML projects spanning regression, classification, and CNNs
 - 🌱 Deepening my skills in Computer Vision and Natural Language Processing
 - 💡 Interested in the intersection of data analytics and applied machine learning
-- 📫 Reach me at **YOUR@email.com**
+- 📫 Reach me at **work.ramanj@gmail.com**
 
 ---
 
